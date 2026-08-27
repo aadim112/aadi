@@ -19,7 +19,8 @@ function App() {
         <Certifications/>
         <Notebook/>
         <Activities/>
-        <p style={{textAlign:'center',fontFamily:'Inter'}}>Alright! that's all I am professionally. Let's connect on <span style={{fontWeight:'bold',color:'#c5050c'}}>LinkedIn</span></p>
+        <p style={{textAlign:'center',fontFamily:'Inter'}}>Alright! that's all I am professionally. Let's connect on <span style={{}}><a href='https://www.linkedin.com/in/adityapatilm/' style={{fontWeight:'bold',color:'#c5050c'}}>LinkedIn</a></span></p>
+        <p style={{textAlign:'center',fontFamily:'Inter',margin:'0px',fontWeight:'300',color:'grey'}}>aaditya.patil.m@gmail.com</p>
       </div>
       <footer style={{display:'flex',alignItems:'center',justifyContent:'center',gap:'10px'}}>
         <p>&copy; 2026 Aaditya M Patil . All rights reserved.</p>
