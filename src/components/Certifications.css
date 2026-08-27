@@ -1,0 +1,150 @@
+.Certifications{
+    width: min(800px, 100%);
+    height: auto;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.certification-heading{
+    text-align: center;
+    font-family: 'Inter';
+    font-weight: bold;
+    font-size: 25px;
+    color: #c5050c;
+    margin: 0px;
+}
+.b{
+    width: 100%;
+    border-bottom: 5px solid black;
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+.certification-container{
+    width: 100%;
+    height: auto;
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 5px;
+    margin-top: 30px;
+}
+.certificate{
+    width: 100%;
+    height: 70px;
+    overflow: hidden;
+    /* border-radius: 8px; */
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    transition: height 0.25s ease, border-color 0.25s ease;
+    /* border-left: 3px solid #c5050bc8; */
+}
+.certificate-metadata{
+    width: 100%;
+    min-height: 70px;
+    padding: 5px;
+    box-sizing: border-box;
+    font-family: Inter;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.certificate-metadata p{
+    margin: 0px;
+}
+.certificate-icon{
+    width: 60px;
+    height: 60px;
+    border-radius: 8px;
+}
+.certificate i{
+    margin-right: 20px;
+    flex: 0 0 auto;
+    display: block;
+}
+.certificare-overview{
+    display: flex;
+    min-width: 0;
+    flex: 1;
+}
+.certificate-icon img{
+    width: 60px;
+    height: 60px;
+    object-fit: contain;
+    border-radius: 8px;
+}
+.certificate:hover,
+.certificate:focus-within{
+    height: auto;
+    border: 0.5px solid #c5050baf;
+    cursor: pointer;
+}
+.certificate-info{
+    margin-left: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center ;
+    min-width: 0;
+    flex: 1;
+}
+.certificate-info p:nth-child(1){
+    font-family: Inter;
+    width: 90%;
+    color: #c5050c;
+    white-space: nowrap;
+    overflow: hidden;   
+    text-overflow: ellipsis;
+}
+.certificate-info p:nth-child(2){
+    font-size: 14px;
+}
+.certificate-info p:nth-child(3){
+    color: grey;
+    font-size: 12px;
+    font-style: italic;
+}
+.certificate-details{
+    width: 100%;
+    padding: 0 15px 12px;
+    box-sizing: border-box;
+    font-family: Inter;
+    font-size: 13px;
+}
+.certificate-details p{
+    margin: 0 0 8px;
+}
+.certificate-details a{
+    color: #c5050c;
+    font-weight: bold;
+}
+.Book{
+    display: flex;
+    align-items: right;
+    margin-top: 10px;
+    gap: 10px;
+}
+.Book img{
+    width: 150px;
+}
+.book-info h2{
+    margin: 0px;
+    color: #c5050c;
+    font-weight: 500;
+    font-family: Inter;
+}
+.book-info p:nth-child(2){
+    margin: 0px;
+    font-family: Inter;
+    font-style: italic;
+    color: rgba(128, 128, 128, 0.525);
+}
+.book-info p:nth-child(3){
+    margin: 0px;
+    font-family: Inter;
+}
+@media (max-width: 600px){
+    .certification-container{
+        grid-template-columns: 1fr;
+    }
+}

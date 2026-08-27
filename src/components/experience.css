@@ -1,0 +1,132 @@
+.experience{
+    width: min(800px, 100%);
+    height: auto;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.band{
+    width: 100%;
+    height: 50px;
+    border-bottom: 5px solid #c5050c;
+    display: flex;
+    align-items: center;
+}
+.experience h2{
+    font-family: Inter;
+    font-weight: bold;
+    font-size: 25px;
+}
+.experience-section{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.job{
+    /* width: 85%; */
+    height: auto;
+    display: flex;
+    flex-direction:column;
+    gap: 5px;
+}
+.job h4{
+    margin: 0px;
+    font-style: italic;
+    font-weight: 400;
+    font-family: Roboto;
+    text-decoration: underline;
+    text-decoration-color: #c5050c;
+    width: auto;
+}
+.job ul{
+    margin: 0px;
+    padding-left: 20px;
+}
+.job li{
+    font-family: Inter;
+    font-weight: 300;
+    margin-top: 5px;
+    font-size: 15px;
+    text-align: justify;
+}
+.job p{
+    font-family: Inter;
+    font-weight: 300;
+    margin-top: 5px;
+    font-size: 15px;
+    text-align: justify;
+}
+.job li::marker{
+    color: #c5050c;
+}
+.company{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+.company h3{
+    margin-bottom: 0px;
+    font-family: Inter;
+    font-weight: 500;
+    margin: 0px;
+}
+.company h4{
+    text-decoration: none;
+    margin-right: 10px;
+}
+.work-showcase-container{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.work-showcase{
+    width: 100px;
+    height: 100px;
+    background-color: #c5050c;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.review{
+    display: flex;
+    flex-direction: column;
+}
+.r{
+    width: 100%;
+    height: auto;
+    margin-left: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.rr{
+    margin-left: 10px;
+    border-left: 2.5px solid #c5050c;
+    padding-left: 10px;
+}
+.rr p:nth-child(1){
+    margin-bottom: 0px;
+    font-size: 15px;
+    font-weight: 500;
+}
+.rr p:nth-child(2){
+    font-family: Inter;
+    font-style: italic;
+    margin: 0px;
+}
+@media (max-width: 600px){
+    .company{
+        align-items: flex-start;
+        flex-direction: column;
+        gap: 4px;
+    }
+    .company h4{
+        margin-right: 0;
+    }
+    .job li,
+    .job p{
+        text-align: left;
+    }
+}

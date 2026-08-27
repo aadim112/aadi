@@ -1,0 +1,42 @@
+[
+	{
+		"id": "vira",
+		"title": "VIRA (Vigilance And Rapid Alerts)",
+        "img" : "https://media.licdn.com/dms/image/v2/D4D22AQEHrk28aaTd6Q/feedshare-image-high-res/B4DZu6nb6IIIAU-/0/1768362459062?e=1788998400&v=beta&t=ale5hcWNUjJo4ZICneb4nt-myxpPG9GxDNAvYhokzt0",
+		"date": "25/06/25 - 31/03/26",
+		"technologies": "RL, Gymnasium, Isaac Sim, Pytorch, FaceNet",
+		"description": "Built an AI-powered surveillance platform integrating autonomous drones and CCTV networks for real-time monitoring, facial recognition, crowd analysis, and anomaly detection across large geographic areas. Developed a real-time alert and response pipeline with incident geolocation, safe hover-zone calculation, and autonomous drone dispatch for rapid threat verification. Engineered scalable cloud infrastructure with real-time GPS tracking of multiple drones and zone-based surveillance management across different regions.",
+		"repository": "https://github.com/RohanSali/Drone-Surveillance-System.git",
+		"major": true
+	},
+	{
+		"id": "nihongono-practice",
+		"title": "Nihongono-Practice",
+		"img":"https://i.ibb.co/BH9j0FKW/Screenshot-2026-08-20-105046.png",
+		"date": "Jan 15, 2025",
+		"technologies": "ReactJS, CSS, Flask",
+		"description": "Web application to help learners practice Japanese reading, listening, vocabulary, grammar, and kanji, structured around JLPT proficiency levels.",
+		"repository": "https://github.com/aadim112/Nihongono-Practice",
+		"major": false
+	},
+	{
+		"id": "pure-change",
+		"title": "Pure Change",
+        "img" : "https://media.licdn.com/dms/image/v2/D4D22AQEr8vvZ5Xsb6Q/feedshare-image-high-res/B4DZu9SP.WKYAU-/0/1768407236836?e=1788998400&v=beta&t=Ynrbk2EmyFsoRbHf-o3Uen2k0Nr6AzC8d6luCAVfTss",
+		"date": "Oct 09, 2025",
+		"technologies": "Behavioral logic, AI personalization, gamification",
+		"description": "PureChange was designed and built through deep product discussion, behavioral logic planning, security design, and iterative engineering. PureChange is a motivation and consistency workspace that functions like a structured streak and progression system, helping users shift away from destructive habits and move toward disciplined routines involving yoga, meditation, fitness, and daily structure.",
+		"repository": "https://github.com/aadim112/PureChange",
+		"major": false
+	},
+	{
+		"id": "medilog",
+		"title": "Medilog",
+        "img":"https://media.licdn.com/dms/image/v2/D4D22AQEtsRTlpZc_bw/feedshare-shrink_1280/B4DZWlafWpHYAs-/0/1742236943847?e=1788998400&v=beta&t=uV5TZs4gfFMiq82MPyQ0QpvF_sU7vofl6stRcBhNTpI",
+		"date": "Mar 01, 2025",
+		"technologies": "React.js, Flask, Google OAuth",
+		"description": "Hospital management application with Google OAuth-based authentication and role-specific access for doctors, patients, and staff, supporting appointment booking, record management, and real-time video consultations.",
+		"repository": "https://github.com/aadim112/HM0055_Code200",
+		"major": false
+	}
+]

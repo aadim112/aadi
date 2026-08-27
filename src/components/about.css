@@ -1,0 +1,135 @@
+.about{
+    width: min(800px, 100%);
+    height: auto;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.compi-wrapper{
+    width: 100%;
+    height: 80px;
+    display: flex;
+}
+.top-margin{
+    width: 100%;
+    height: 65px;
+}
+.hero-heading{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.hero-heading h2{
+    margin: 0px;
+}
+.rotating-text {
+    height: 40px;
+    overflow: hidden;
+    position: relative;
+}
+
+.rotating-track {
+    display: flex;
+    flex-direction: column;
+    animation: rotateText 4s infinite ease-in-out;
+}
+
+.rotating-track span {
+    height: 40px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-family: 'Inter', sans-serif;
+}
+
+@keyframes rotateText {
+    0%,
+    40% {
+        transform: translateY(0);
+    }
+
+    50%,
+    90% {
+        transform: translateY(-40px);
+    }
+
+    100% {
+        transform: translateY(0);
+    }
+}
+h2{
+    font-family: Inter;
+    font-weight: 400;
+}
+.information{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+}
+.left-info-section{
+    width: 70%;
+}
+.left-info-section p{
+    font-family: Inter;
+    font-weight: 300;
+    line-height: 30px;
+    text-align: justify;
+}
+.pf-section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.pf{
+    width:250px;
+    height: 250px;
+    border-radius: 50%;
+    background-image: url('/src/assets/profile.jpeg');
+    background-size: cover;
+    background-position: center;
+}
+.tech-info{
+    width: 70%;
+    height: auto;
+}
+.tech-stack{
+    width: 70%;
+    height: auto;
+}
+.tech-stack h3{
+    font-weight: 500;
+    font-family: Inter;
+    color: #c5050c;
+}
+.technologies{
+    width: 100%;
+    height: auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+}
+.technologies p{
+    margin: 0px;
+    font-family: Inter;
+}
+
+@media (max-width: 600px){
+    .hero-heading{
+        gap: 10px;
+        flex-wrap: wrap;
+    }
+    .information{
+        flex-direction: column;
+        gap: 20px;
+    }
+    .left-info-section,
+    .pf-section,
+    .tech-info,
+    .tech-stack{
+        width: 100%;
+    }
+    .pf{
+        width: min(250px, 75vw);
+        height: min(250px, 75vw);
+    }
+}

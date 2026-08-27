@@ -1,0 +1,83 @@
+[
+	{
+		"id": "sample-certificate-1",
+        "img":"https://media.licdn.com/dms/image/v2/C4D0BAQFzIxlpQ0lAdA/company-logo_100_100/company-logo_100_100/0/1630556211624/huggingface_logo?e=1788998400&v=beta&t=svOHo5t46V-n6fIl_fipC1TYA9voh38H5_Mag-5mXQI",
+		"name": "AI Agent Fundamentals",
+		"issuer": "Hugging Face",
+		"date": "Aug 2026",
+		"description": "Add a short description of this certificate here.",
+		"link": "https://us.aws.cdn.hf.co/xet-bridge-us/67a47037749ea2c4b9fafd4b/2da34f51cb0138e9b9eba416f0294debea008599df6ec36f620dbdaca79c10fe?X-Xet-Cas-Uid=6a5518b23b6c4d4b74e802a8&response-content-disposition=inline%3B+filename*%3DUTF-8%27%272026-08-10.png%3B+filename%3D%222026-08-10.png%22%3B&user_id=6a5518b23b6c4d4b74e802a8&response-content-type=image%2Fpng&Expires=1787679735&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly91cy5hd3MuY2RuLmhmLmNvL3hldC1icmlkZ2UtdXMvNjdhNDcwMzc3NDllYTJjNGI5ZmFmZDRiLzJkYTM0ZjUxY2IwMTM4ZTliOWViYTQxNmYwMjk0ZGViZWEwMDg1OTlkZjZlYzM2ZjYyMGRiZGFjYTc5YzEwZmVcXD9YLVhldC1DYXMtVWlkPTZhNTUxOGIyM2I2YzRkNGI3NGU4MDJhOCZyZXNwb25zZS1jb250ZW50LWRpc3Bvc2l0aW9uPWlubGluZSUzQitmaWxlbmFtZSUyQSUzRFVURi04JTI3JTI3MjAyNi0wOC0xMC5wbmclM0IrZmlsZW5hbWUlM0QlMjIyMDI2LTA4LTEwLnBuZyUyMiUzQiZ1c2VyX2lkPTZhNTUxOGIyM2I2YzRkNGI3NGU4MDJhOCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmciLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkVwb2NoVGltZSI6MTc4NzY3OTczNX19fV19&Signature=MEYCIQCFZqmNT5B3Vlk40vqf5kZwoSPqJ2r-aqDTd0hCQJYO0gIhAJO3Tn0DQhmqyLqO5mG3LUeDBUGcB8J1ZknIutn2zrPF&Key-Pair-Id=01KXEF4KZ1B6FV465MAWR4M21F"
+	},
+    {
+		"id": "sample-certificate-2",
+        "img":"https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_100_100/B4EZmhegXHGcAU-/0/1759350753990/google_logo?e=1788998400&v=beta&t=MormypddSacOS7dsN4EfTJc_F3iKsK8GZixeF-3PP4M",
+		"name": "Machine Learning Crash Course",
+		"issuer": "Google",
+		"date": "Dec 2024",
+		"description": "Add a short description of this certificate here.",
+		"link": "Machine Learning Crash Course"
+	},
+    {
+		"id": "sample-certificate-3",
+        "img":"https://media.licdn.com/dms/image/v2/D560BAQHqqREuYOZewQ/company-logo_100_100/company-logo_100_100/0/1701272685881/unstop_logo?e=1788998400&v=beta&t=wXta6H1iG64MrIx804a7_7SnmPKaiknuMnZnTNovAL0",
+		"name": "Data pre-processing for Machine Learning in Python",
+		"issuer": "Unstop",
+		"date": "Jul 2025",
+		"description": "Add a short description of this certificate here.",
+		"link": "Data pre-processing for Machine Learning in Python"
+	},
+    {
+		"id": "sample-certificate-3",
+        "img":"https://media.licdn.com/dms/image/v2/D560BAQEhb_j1_sDRJQ/company-logo_100_100/company-logo_100_100/0/1720817595519/theforage_logo?e=1788998400&v=beta&t=QcK6h6japmjYNgi2WxLzzvT3sg9JViPov7h-zPQRhDI",
+		"name": "Deloitte Australia - Data Analytics Job Simulation",
+		"issuer": "Forage",
+		"date": "Jun 2025",
+		"description": "Add a short description of this certificate here.",
+		"link": "-"
+	},
+    {
+		"id": "sample-certificate-3",
+        "img":"https://media.licdn.com/dms/image/v2/C4E0BAQEBQ0ItUQd9GA/company-logo_100_100/company-logo_100_100/0/1662036891199/devtown_in_logo?e=1788998400&v=beta&t=EOqiGUDRbHyv4xAoCq9o0dOm54rEfa-3Q_PQZFlwx14",
+		"name": "Core C++ Concept",
+		"issuer": "Dev Town",
+		"date": "-",
+		"description": "Add a short description of this certificate here.",
+		"link": "-"
+	},
+    {
+		"id": "sample-certificate-3",
+        "img":"https://media.licdn.com/dms/image/v2/C4D0BAQHER-dvTqh2tA/company-logo_100_100/company-logo_100_100/0/1630576160230/sololearn_inc__logo?e=1788998400&v=beta&t=K875putb0onkvQFvuG-XCFX9IQdun6-1T5fh4wrh-4I",
+		"name": "Introduction to Programming Using HTML and CSS",
+		"issuer": "Sololearn",
+		"date": "May 2021",
+		"description": "Add a short description of this certificate here.",
+		"link": "https://www.sololearn.com/certificates/CT-OMQ0GWXF"
+	},
+    {
+		"id": "sample-certificate-3",
+        "img":"https://media.licdn.com/dms/image/v2/C4D0BAQHER-dvTqh2tA/company-logo_100_100/company-logo_100_100/0/1630576160230/sololearn_inc__logo?e=1788998400&v=beta&t=K875putb0onkvQFvuG-XCFX9IQdun6-1T5fh4wrh-4I",
+		"name": "JavaScript Specialist Certification",
+		"issuer": "Sololearn",
+		"date": "Jun 2025",
+		"description": "Add a short description of this certificate here.",
+		"link": "https://www.sololearn.com/certificates/CT-MLNXDENA"
+	},
+    {
+		"id": "sample-certificate-3",
+        "img":"https://media.licdn.com/dms/image/v2/D560BAQE8MivsmbT7Ig/company-logo_100_100/company-logo_100_100/0/1705561459405/hackerrank_logo?e=1788998400&v=beta&t=yaGa-y3JdAau2OjY4VAOMPiDPLNWQZ7fYQmH-Jl9GNc",
+		"name": "Python Basics",
+		"issuer": "HackerRank",
+		"date": "Nov 2023",
+		"description": "Add a short description of this certificate here.",
+		"link": "https://www.hackerrank.com/certificates/62c60659914c"
+	},
+	{
+		"id": "sample-certificate-3",
+        "img":"https://www.learnpytorch.io/assets/ztm-logo-and-pytorch-logo.png",
+		"name": "Zero to Mastery Learn PyTorch for Deep Learning",
+		"issuer": "learnpytorch.io",
+		"date": "-",
+		"description": "Add a short description of this certificate here.",
+		"link": "https://www.learnpytorch.io/"
+	}
+]
