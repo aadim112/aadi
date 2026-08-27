@@ -19,6 +19,7 @@ function App() {
         <Certifications/>
         <Notebook/>
         <Activities/>
+        <p style={{textAlign:'center',fontFamily:'Inter'}}>Alright! that's all I am professionally. Let's connect on <span style={{fontWeight:'bold',color:'#c5050c'}}>LinkedIn</span></p>
       </div>
       <footer style={{display:'flex',alignItems:'center',justifyContent:'center',gap:'10px'}}>
         <p>&copy; 2026 Aaditya M Patil . All rights reserved.</p>

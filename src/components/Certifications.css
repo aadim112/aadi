@@ -147,4 +147,9 @@
     .certification-container{
         grid-template-columns: 1fr;
     }
+    .Book{
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
 }

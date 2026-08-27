@@ -5,7 +5,7 @@
 		"name": "AI Agent Fundamentals",
 		"issuer": "Hugging Face",
 		"date": "Aug 2026",
-		"description": "Add a short description of this certificate here.",
+		"description": "I learned the fundamentals of AI agents, including how they use LLMs, tools, and reasoning to perform tasks autonomously. I also learned how to build and use agents with Hugging Face’s smolagents framework and understand the Think → Act → Observe workflow.",
 		"link": "https://us.aws.cdn.hf.co/xet-bridge-us/67a47037749ea2c4b9fafd4b/2da34f51cb0138e9b9eba416f0294debea008599df6ec36f620dbdaca79c10fe?X-Xet-Cas-Uid=6a5518b23b6c4d4b74e802a8&response-content-disposition=inline%3B+filename*%3DUTF-8%27%272026-08-10.png%3B+filename%3D%222026-08-10.png%22%3B&user_id=6a5518b23b6c4d4b74e802a8&response-content-type=image%2Fpng&Expires=1787679735&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly91cy5hd3MuY2RuLmhmLmNvL3hldC1icmlkZ2UtdXMvNjdhNDcwMzc3NDllYTJjNGI5ZmFmZDRiLzJkYTM0ZjUxY2IwMTM4ZTliOWViYTQxNmYwMjk0ZGViZWEwMDg1OTlkZjZlYzM2ZjYyMGRiZGFjYTc5YzEwZmVcXD9YLVhldC1DYXMtVWlkPTZhNTUxOGIyM2I2YzRkNGI3NGU4MDJhOCZyZXNwb25zZS1jb250ZW50LWRpc3Bvc2l0aW9uPWlubGluZSUzQitmaWxlbmFtZSUyQSUzRFVURi04JTI3JTI3MjAyNi0wOC0xMC5wbmclM0IrZmlsZW5hbWUlM0QlMjIyMDI2LTA4LTEwLnBuZyUyMiUzQiZ1c2VyX2lkPTZhNTUxOGIyM2I2YzRkNGI3NGU4MDJhOCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmciLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkVwb2NoVGltZSI6MTc4NzY3OTczNX19fV19&Signature=MEYCIQCFZqmNT5B3Vlk40vqf5kZwoSPqJ2r-aqDTd0hCQJYO0gIhAJO3Tn0DQhmqyLqO5mG3LUeDBUGcB8J1ZknIutn2zrPF&Key-Pair-Id=01KXEF4KZ1B6FV465MAWR4M21F"
 	},
     {
@@ -14,7 +14,7 @@
 		"name": "Machine Learning Crash Course",
 		"issuer": "Google",
 		"date": "Dec 2024",
-		"description": "Add a short description of this certificate here.",
+		"description": "I learned the fundamentals of machine learning, including regression, classification, neural networks, model evaluation, and techniques like gradient descent and loss functions. I also gained practical experience with data preparation, overfitting, embeddings, LLMs, and real-world ML systems through interactive exercises.",
 		"link": "Machine Learning Crash Course"
 	},
     {
@@ -23,7 +23,7 @@
 		"name": "Data pre-processing for Machine Learning in Python",
 		"issuer": "Unstop",
 		"date": "Jul 2025",
-		"description": "Add a short description of this certificate here.",
+		"description": "I learned how to clean and prepare raw datasets for machine learning using Python, including handling missing values, encoding categorical data, transforming and scaling numerical features. I also learned to use scikit-learn pipelines, PCA, feature selection, and SMOTE to improve the quality and performance of ML models.",
 		"link": "Data pre-processing for Machine Learning in Python"
 	},
     {
@@ -32,7 +32,7 @@
 		"name": "Deloitte Australia - Data Analytics Job Simulation",
 		"issuer": "Forage",
 		"date": "Jun 2025",
-		"description": "Add a short description of this certificate here.",
+		"description": "I learned how to analyze real-world business data, identify patterns, and derive meaningful insights using tools such as Excel and Tableau. I also gained practical experience in data visualization, data modeling, and building dashboards to support data-driven business decisions.",
 		"link": "-"
 	},
     {
@@ -41,7 +41,7 @@
 		"name": "Core C++ Concept",
 		"issuer": "Dev Town",
 		"date": "-",
-		"description": "Add a short description of this certificate here.",
+		"description": "",
 		"link": "-"
 	},
     {
@@ -50,7 +50,7 @@
 		"name": "Introduction to Programming Using HTML and CSS",
 		"issuer": "Sololearn",
 		"date": "May 2021",
-		"description": "Add a short description of this certificate here.",
+		"description": "Learned all the fundamentals of HTML and CSS",
 		"link": "https://www.sololearn.com/certificates/CT-OMQ0GWXF"
 	},
     {
@@ -59,7 +59,7 @@
 		"name": "JavaScript Specialist Certification",
 		"issuer": "Sololearn",
 		"date": "Jun 2025",
-		"description": "Add a short description of this certificate here.",
+		"description": "Learned and Implemented all fundamental concepts of Javascript",
 		"link": "https://www.sololearn.com/certificates/CT-MLNXDENA"
 	},
     {
@@ -68,7 +68,7 @@
 		"name": "Python Basics",
 		"issuer": "HackerRank",
 		"date": "Nov 2023",
-		"description": "Add a short description of this certificate here.",
+		"description": "Achieved this Certificate after passing python assesment on HackerRank",
 		"link": "https://www.hackerrank.com/certificates/62c60659914c"
 	},
 	{
@@ -77,7 +77,7 @@
 		"name": "Zero to Mastery Learn PyTorch for Deep Learning",
 		"issuer": "learnpytorch.io",
 		"date": "-",
-		"description": "Add a short description of this certificate here.",
+		"description": "I learned the fundamentals of PyTorch and deep learning, including tensors, neural networks, model training, evaluation, and computer vision. I also gained hands-on experience with transfer learning, custom datasets, experiment tracking, and deploying PyTorch models.",
 		"link": "https://www.learnpytorch.io/"
 	}
 ]

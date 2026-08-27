@@ -11,3 +11,10 @@
   height: 2px;
   background-color: #e4e4e4; 
 }
+@media (max-width: 600px) {
+  footer{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+  }
+}

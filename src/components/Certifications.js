@@ -3,8 +3,8 @@ import certificates from './certificate.json'
 
 function Certifications(){
     return(
-        <div className='Certifications'>
-            <h2 className='certification-heading'>Certifications & Course</h2>
+        <div id='certifications' className='Certifications'>
+            <h2 className='certification-heading'>Certifications & Courses</h2>
             <div className='certification-container'>
                 {certificates.map((certificate) => (
                     <div className='certificate' key={certificate.id}>
@@ -35,8 +35,12 @@ function Certifications(){
                 <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRenpNN3ec95dpJwEmKMyOLIv9gQy_jnoc4WLnqwJ2rA&s=10'></img>
                 <div className='book-info'>
                     <h2>Build Your LLM from scratch</h2>
-                    <p>Sabestian Rascasa</p>
-                    <p>Info about </p>
+                    <p>Sebastian Raschka</p>
+                    <p>Understood the GPT decoder-only model deeply. Also implemented a GPT-like model from scratch. The book contains all the small and required details about transformer architecture.</p>
+                    <div style={{display:'flex', gap:'5px',marginLeft:'0px',marginTop:'10px'}}>
+                        <a href='http://100.74.128.71:2283/share/pViUCac3-tZ_mNHGEX3BxCGIg36q30jismj3AdrGxSlZvfzQzL6G958mTEye-QpTy7M' style={{color:'#c5050c',}}><p style={{fontWeight:'500',fontFamily:'Inter',margin:'0px'}}>Checkout Model</p></a>
+                        <i className="fa-solid fa-arrow-up-right-from-square" style={{color: "#c5050c"}}></i>
+                    </div>
                 </div>
             </div>
         </div>

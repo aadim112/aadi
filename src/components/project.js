@@ -10,7 +10,7 @@ function Project(){
     const [selectedProject, setSelectedProject] = useState(majorProjects[0])
 
     return(
-        <div className='project'>
+        <div id='projects' className='project'>
             <div className="band">
                 <h2>Key Projects</h2>
             </div>

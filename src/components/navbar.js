@@ -1,6 +1,11 @@
 import './navbar.css';
+import { useState } from 'react';
 
 function Navbar() {
+    const [menuOpen, setMenuOpen] = useState(false);
+
+    const closeMenu = () => setMenuOpen(false);
+
     return(
         <header>
             <div className="container">
@@ -11,15 +16,26 @@ function Navbar() {
                     <a href="https://github.com/aadim112"><i className="fa-brands fa-square-github fa-lg" style={{color: 'rgb(0, 0, 0)'}}></i></a>
                     <a href="https://www.kaggle.com/aaditya112"><i className="fa-brands fa-kaggle fa-lg" style={{color: 'rgb(0, 0, 0)'}}></i></a>
                 </div>
-                <div className='info'>
-                    <button className='resume'>Resume</button>
-                    <p>|</p>
-                    <p className='opt'>Work Experience</p>
-                    <p className='opt'>Projects</p>
-                    <p className='opt'>Certification & Courses</p>
-                    <p className='opt'>Notebooks</p>
-                    <p className='opt'>Activities</p>
-                    <p className='opt'>About</p>
+                <div className='info nav-row'>
+                    <a className='resume' href='/resume.pdf' download='Aaditya-MP-Resume.pdf'>Resume</a>
+                    <button
+                        className='menu-button'
+                        type='button'
+                        aria-label={menuOpen ? 'Close navigation menu' : 'Open navigation menu'}
+                        aria-expanded={menuOpen}
+                        onClick={() => setMenuOpen(!menuOpen)}
+                    >
+                        <i className={menuOpen ? 'fa-solid fa-xmark' : 'fa-solid fa-bars'}></i>
+                    </button>
+                    <div className={menuOpen ? 'nav-links open' : 'nav-links'}>
+                        <p>|</p>
+                        <a className='opt' href='#experience' onClick={closeMenu}>Work Experience</a>
+                        <a className='opt' href='#projects' onClick={closeMenu}>Projects</a>
+                        <a className='opt' href='#certifications' onClick={closeMenu}>Certification & Courses</a>
+                        <a className='opt' href='#notebooks' onClick={closeMenu}>Notebooks</a>
+                        <a className='opt' href='#activities' onClick={closeMenu}>Activities</a>
+                        <a className='opt' href='#about' onClick={closeMenu}>About</a>
+                    </div>
                 </div>
             </div>
         </header>

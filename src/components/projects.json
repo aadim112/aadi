@@ -15,7 +15,7 @@
 		"img":"https://i.ibb.co/BH9j0FKW/Screenshot-2026-08-20-105046.png",
 		"date": "Jan 15, 2025",
 		"technologies": "ReactJS, CSS, Flask",
-		"description": "Web application to help learners practice Japanese reading, listening, vocabulary, grammar, and kanji, structured around JLPT proficiency levels.",
+		"description": "Nihongo is a Japanese-learning website designed to help beginners prepare for the JLPT N5 level. It provides structured learning resources such as Hiragana, Katakana, vocabulary, grammar, quizzes, and practice exercises, making it easier to learn Japanese step by step through an interactive web interface.",
 		"repository": "https://github.com/aadim112/Nihongono-Practice",
 		"major": false
 	},

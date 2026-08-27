@@ -3,7 +3,7 @@ import newspaper from '../assets/newspaper.png'
 
 function about(){
     return(
-        <div className='about'>
+        <div id='about' className='about'>
             <div className="top-margin" ></div>
             <div className='information'>
                 <div className='left-info-section'>
@@ -11,8 +11,8 @@ function about(){
                         <h2>Hello, I'm Aaditya</h2>
                         <div className="rotating-text">
                             <div className="rotating-track">
-                                <span>(<i className="fa-solid fa-torii-gate" style={{ color: 'rgb(250, 20, 0)' }}></i>日本語 Learner )</span>
-                                <span>(<i className="fa-solid fa-robot" style={{ color: 'rgb(250, 20, 0)' }}></i>Machine Learning Student )</span>
+                                <span>(<i className="fa-solid fa-torii-gate" style={{ color: '#c5050c' }}></i>日本語 Learner )</span>
+                                <span>(<i className="fa-solid fa-robot" style={{ color: '#c5050c' }}></i>Machine Learning Student )</span>
                                 {/* <span><i className="fa-solid fa-torii-gate" style={{ color: 'rgb(250, 20, 0)' }}></i>JP Learner</span> */}
                             </div>
                         </div>
@@ -34,12 +34,13 @@ function about(){
                         <p>Flask</p>
                         <p>ReactJs</p>
                         <p>Pandas</p>
+                        <p>Numpy</p>
                     </div>
                 </div>
                 <div className='tech-stack'>
-                    <h3>Compitative Worlds!!</h3>
+                    <h3>Competitive Worlds!!</h3>
                     <div className='technologies'>
-                        <a href='https://leetcode.com/u/aadi_m/'><i className="fa-brands fa-leetcode fa-lg" style={{color: "rgb(0, 0, 0)"}}></i></a>
+                        <a href='https://leetcode.com/u/aadi_m/' style={{textDecoration:'none'}}><i className="fa-brands fa-leetcode fa-lg" style={{color: "rgb(0, 0, 0)"}}></i><span style={{color:'#c5050c',fontFamily:'Inter',fontWeight:'500'}}>LeetCode</span></a>
                         <a href='https://codolio.com/profile/Aaditya' style={{textDecoration:'none',fontFamily:'Inter'}}><p style={{fontWeight:'bold',color:'black',margin:'0px'}}>Cod<span style={{color:'rgb(245 124 6)'}}>olio</span></p></a>
                     </div>
                 </div>

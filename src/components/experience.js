@@ -6,7 +6,7 @@ function Experience(){
     const [showReviews, setShowReviews] = useState(false);
 
     return(
-        <div className='experience'>
+        <div id='experience' className='experience'>
             <div className="band">
                 <h2>Work Experience</h2>
             </div>
@@ -90,7 +90,7 @@ function Experience(){
                         }
                     </div>
                     <div style={{display:'flex', gap:'5px',marginLeft:'10px'}}>
-                        <a href='http://100.74.128.71:2283/share/pViUCac3-tZ_mNHGEX3BxCGIg36q30jismj3AdrGxSlZvfzQzL6G958mTEye-QpTy7M' style={{color:'#c5050c',}}><p style={{fontWeight:'500',fontFamily:'Inter',margin:'0px'}}>Visit Profile</p></a>
+                        <a href='https://www.fiverr.com/mastervisualaid/do-business-informative-flyer-design' style={{color:'#c5050c',}}><p style={{fontWeight:'500',fontFamily:'Inter',margin:'0px'}}>Visit Profile</p></a>
                         <i className="fa-solid fa-arrow-up-right-from-square" style={{color: "#c5050c"}}></i>
                     </div>
                 </div>
