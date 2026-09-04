@@ -11,7 +11,7 @@ function notebook(){
                 <div className='NT'>
                     <img src='https://res.cloudinary.com/dbulfrlrz/images/f_auto,q_auto/v1756814050/wp-pme/llm_blog_cover2x-2/llm_blog_cover2x-2.png?_i=AA' alt='someting'></img>
                     <div className='NT-info'>
-                        <a href='' style={{color:'#c5050c'}}><h2>Transformers And There Working Simplified</h2></a>
+                        <a href='https://www.kaggle.com/code/aaditya112/transformers-and-there-working-simplified' style={{color:'#c5050c'}}><h2>Transformers And There Working Simplified</h2></a>
                         <p>Kaggle</p>
                     </div>
 

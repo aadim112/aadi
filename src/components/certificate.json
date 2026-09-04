@@ -1,12 +1,21 @@
 [
 	{
 		"id": "sample-certificate-1",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqutcJKA0W7xSjqnXLwpL9uMYSEZAuq5cgtQiFeSEVBQ&s",
+		"name": "JLPT N5 Certificate",
+		"issuer": "Japanese Language Proficiency Test",
+		"date": "Aug 2026",
+		"description": "Can read Japanese sentence written in Hiragana, Katakana and some basic Kanjis",
+		"link": "https://huggingface.co/Aadim3006"
+	},
+	{
+		"id": "sample-certificate-1",
         "img":"https://media.licdn.com/dms/image/v2/C4D0BAQFzIxlpQ0lAdA/company-logo_100_100/company-logo_100_100/0/1630556211624/huggingface_logo?e=1788998400&v=beta&t=svOHo5t46V-n6fIl_fipC1TYA9voh38H5_Mag-5mXQI",
 		"name": "AI Agent Fundamentals",
 		"issuer": "Hugging Face",
 		"date": "Aug 2026",
 		"description": "I learned the fundamentals of AI agents, including how they use LLMs, tools, and reasoning to perform tasks autonomously. I also learned how to build and use agents with Hugging Face’s smolagents framework and understand the Think → Act → Observe workflow.",
-		"link": "https://us.aws.cdn.hf.co/xet-bridge-us/67a47037749ea2c4b9fafd4b/2da34f51cb0138e9b9eba416f0294debea008599df6ec36f620dbdaca79c10fe?X-Xet-Cas-Uid=6a5518b23b6c4d4b74e802a8&response-content-disposition=inline%3B+filename*%3DUTF-8%27%272026-08-10.png%3B+filename%3D%222026-08-10.png%22%3B&user_id=6a5518b23b6c4d4b74e802a8&response-content-type=image%2Fpng&Expires=1787679735&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly91cy5hd3MuY2RuLmhmLmNvL3hldC1icmlkZ2UtdXMvNjdhNDcwMzc3NDllYTJjNGI5ZmFmZDRiLzJkYTM0ZjUxY2IwMTM4ZTliOWViYTQxNmYwMjk0ZGViZWEwMDg1OTlkZjZlYzM2ZjYyMGRiZGFjYTc5YzEwZmVcXD9YLVhldC1DYXMtVWlkPTZhNTUxOGIyM2I2YzRkNGI3NGU4MDJhOCZyZXNwb25zZS1jb250ZW50LWRpc3Bvc2l0aW9uPWlubGluZSUzQitmaWxlbmFtZSUyQSUzRFVURi04JTI3JTI3MjAyNi0wOC0xMC5wbmclM0IrZmlsZW5hbWUlM0QlMjIyMDI2LTA4LTEwLnBuZyUyMiUzQiZ1c2VyX2lkPTZhNTUxOGIyM2I2YzRkNGI3NGU4MDJhOCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmciLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkVwb2NoVGltZSI6MTc4NzY3OTczNX19fV19&Signature=MEYCIQCFZqmNT5B3Vlk40vqf5kZwoSPqJ2r-aqDTd0hCQJYO0gIhAJO3Tn0DQhmqyLqO5mG3LUeDBUGcB8J1ZknIutn2zrPF&Key-Pair-Id=01KXEF4KZ1B6FV465MAWR4M21F"
+		"link": "https://huggingface.co/Aadim3006"
 	},
     {
 		"id": "sample-certificate-2",
@@ -15,7 +24,7 @@
 		"issuer": "Google",
 		"date": "Dec 2024",
 		"description": "I learned the fundamentals of machine learning, including regression, classification, neural networks, model evaluation, and techniques like gradient descent and loss functions. I also gained practical experience with data preparation, overfitting, embeddings, LLMs, and real-world ML systems through interactive exercises.",
-		"link": "Machine Learning Crash Course"
+		"link": "https://me.developers.google.com/u/aditya149"
 	},
     {
 		"id": "sample-certificate-3",
@@ -24,7 +33,7 @@
 		"issuer": "Unstop",
 		"date": "Jul 2025",
 		"description": "I learned how to clean and prepare raw datasets for machine learning using Python, including handling missing values, encoding categorical data, transforming and scaling numerical features. I also learned to use scikit-learn pipelines, PCA, feature selection, and SMOTE to improve the quality and performance of ML models.",
-		"link": "Data pre-processing for Machine Learning in Python"
+		"link": "https://www.udemy.com/certificate/UC-83937212-5853-4bc8-8cdd-55ecc5712c56/"
 	},
     {
 		"id": "sample-certificate-3",
@@ -33,7 +42,7 @@
 		"issuer": "Forage",
 		"date": "Jun 2025",
 		"description": "I learned how to analyze real-world business data, identify patterns, and derive meaningful insights using tools such as Excel and Tableau. I also gained practical experience in data visualization, data modeling, and building dashboards to support data-driven business decisions.",
-		"link": "-"
+		"link": "https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_Aiohtps7MvSuWj4Wa_1750862947994_completion_certificate.pdf"
 	},
     {
 		"id": "sample-certificate-3",

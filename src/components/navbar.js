@@ -1,5 +1,6 @@
 import './navbar.css';
 import { useState } from 'react';
+import resume from '../assets/resume.pdf';
 
 function Navbar() {
     const [menuOpen, setMenuOpen] = useState(false);
@@ -17,7 +18,7 @@ function Navbar() {
                     <a href="https://www.kaggle.com/aaditya112"><i className="fa-brands fa-kaggle fa-lg" style={{color: 'rgb(0, 0, 0)'}}></i></a>
                 </div>
                 <div className='info nav-row'>
-                    <a className='resume' href='/resume.pdf' download='Aaditya-MP-Resume.pdf'>Resume</a>
+                    <a className='resume' href={resume} download='Aaditya-Patil-Resume.pdf'>Resume</a>
                     <button
                         className='menu-button'
                         type='button'
