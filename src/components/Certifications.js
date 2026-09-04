@@ -38,7 +38,7 @@ function Certifications(){
                     <p>Sebastian Raschka</p>
                     <p>Understood the GPT decoder-only model deeply. Also implemented a GPT-like model from scratch. The book contains all the small and required details about transformer architecture.</p>
                     <div style={{display:'flex', gap:'5px',marginLeft:'0px',marginTop:'10px'}}>
-                        <a href='http://100.74.128.71:2283/share/pViUCac3-tZ_mNHGEX3BxCGIg36q30jismj3AdrGxSlZvfzQzL6G958mTEye-QpTy7M' style={{color:'#c5050c',}}><p style={{fontWeight:'500',fontFamily:'Inter',margin:'0px'}}>Checkout Model</p></a>
+                        <a href='https://www.kaggle.com/code/aaditya112/creating-your-own-llm-from-0' style={{color:'#c5050c',}}><p style={{fontWeight:'500',fontFamily:'Inter',margin:'0px'}}>Checkout Model</p></a>
                         <i className="fa-solid fa-arrow-up-right-from-square" style={{color: "#c5050c"}}></i>
                     </div>
                 </div>
