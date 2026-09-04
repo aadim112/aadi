@@ -27,7 +27,7 @@ function Experience(){
                         <li>Created a Streamlit application utilizing OCR and the Claude API to extract structured information from images of society register pages containing handwritten vehicle entries.</li>
                     </ul>
                     <div style={{display:'flex', gap:'5px',marginLeft:'10px'}}>
-                        <a href='http://100.74.128.71:2283/share/pViUCac3-tZ_mNHGEX3BxCGIg36q30jismj3AdrGxSlZvfzQzL6G958mTEye-QpTy7M' style={{color:'#c5050c',}}><p style={{fontWeight:'500',fontFamily:'Inter',margin:'0px'}}>Offer Letter</p></a>
+                        <a href='https://ibb.co/YFWHdwf5' style={{color:'#c5050c',}}><p style={{fontWeight:'500',fontFamily:'Inter',margin:'0px'}}>Offer Letter</p></a>
                         <i className="fa-solid fa-arrow-up-right-from-square" style={{color: "#c5050c"}}></i>
                     </div>
                 </div>
