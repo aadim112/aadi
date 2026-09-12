@@ -10,7 +10,7 @@
 	},
 	{
 		"id": "sample-certificate-1",
-        "img":"https://media.licdn.com/dms/image/v2/C4D0BAQFzIxlpQ0lAdA/company-logo_100_100/company-logo_100_100/0/1630556211624/huggingface_logo?e=1788998400&v=beta&t=svOHo5t46V-n6fIl_fipC1TYA9voh38H5_Mag-5mXQI",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQQeiFHg_4oycTKkyAhehJOpOTfDsOpa0QjA3nfOsgOA&s=10",
 		"name": "AI Agent Fundamentals",
 		"issuer": "Hugging Face",
 		"date": "Aug 2026",
@@ -19,7 +19,7 @@
 	},
     {
 		"id": "sample-certificate-2",
-        "img":"https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_100_100/B4EZmhegXHGcAU-/0/1759350753990/google_logo?e=1788998400&v=beta&t=MormypddSacOS7dsN4EfTJc_F3iKsK8GZixeF-3PP4M",
+        "img":"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/3840px-Google_%22G%22_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
 		"name": "Machine Learning Crash Course",
 		"issuer": "Google",
 		"date": "Dec 2024",
@@ -28,16 +28,16 @@
 	},
     {
 		"id": "sample-certificate-3",
-        "img":"https://media.licdn.com/dms/image/v2/D560BAQHqqREuYOZewQ/company-logo_100_100/company-logo_100_100/0/1701272685881/unstop_logo?e=1788998400&v=beta&t=wXta6H1iG64MrIx804a7_7SnmPKaiknuMnZnTNovAL0",
+        "img":"https://img.logo.dev/udemy.com?token=live_6a1a28fd-6420-4492-aeb0-b297461d9de2&size=512&retina=true&format=png",
 		"name": "Data pre-processing for Machine Learning in Python",
-		"issuer": "Unstop",
+		"issuer": "Udemy",
 		"date": "Jul 2025",
 		"description": "I learned how to clean and prepare raw datasets for machine learning using Python, including handling missing values, encoding categorical data, transforming and scaling numerical features. I also learned to use scikit-learn pipelines, PCA, feature selection, and SMOTE to improve the quality and performance of ML models.",
 		"link": "https://www.udemy.com/certificate/UC-83937212-5853-4bc8-8cdd-55ecc5712c56/"
 	},
     {
 		"id": "sample-certificate-3",
-        "img":"https://media.licdn.com/dms/image/v2/D560BAQEhb_j1_sDRJQ/company-logo_100_100/company-logo_100_100/0/1720817595519/theforage_logo?e=1788998400&v=beta&t=QcK6h6japmjYNgi2WxLzzvT3sg9JViPov7h-zPQRhDI",
+        "img":"https://cdn-assets.theforage.com/images/forage-schema-logo.png",
 		"name": "Deloitte Australia - Data Analytics Job Simulation",
 		"issuer": "Forage",
 		"date": "Jun 2025",
@@ -46,7 +46,7 @@
 	},
     {
 		"id": "sample-certificate-3",
-        "img":"https://media.licdn.com/dms/image/v2/C4E0BAQEBQ0ItUQd9GA/company-logo_100_100/company-logo_100_100/0/1662036891199/devtown_in_logo?e=1788998400&v=beta&t=EOqiGUDRbHyv4xAoCq9o0dOm54rEfa-3Q_PQZFlwx14",
+        "img":"https://media.licdn.com/dms/image/v2/C4E0BAQEBQ0ItUQd9GA/company-logo_200_200/company-logo_200_200/0/1662036891199/devtown_in_logo?e=2147483647&v=beta&t=Hf-n88vMkzoJomBFugU4iUTFhH9ZNGu0Z1pZdv7dWPY",
 		"name": "Core C++ Concept",
 		"issuer": "Dev Town",
 		"date": "-",
@@ -55,7 +55,7 @@
 	},
     {
 		"id": "sample-certificate-3",
-        "img":"https://media.licdn.com/dms/image/v2/C4D0BAQHER-dvTqh2tA/company-logo_100_100/company-logo_100_100/0/1630576160230/sololearn_inc__logo?e=1788998400&v=beta&t=K875putb0onkvQFvuG-XCFX9IQdun6-1T5fh4wrh-4I",
+        "img":"https://blob.sololearn.com/avatars/sololearn.png",
 		"name": "Introduction to Programming Using HTML and CSS",
 		"issuer": "Sololearn",
 		"date": "May 2021",
@@ -64,7 +64,7 @@
 	},
     {
 		"id": "sample-certificate-3",
-        "img":"https://media.licdn.com/dms/image/v2/C4D0BAQHER-dvTqh2tA/company-logo_100_100/company-logo_100_100/0/1630576160230/sololearn_inc__logo?e=1788998400&v=beta&t=K875putb0onkvQFvuG-XCFX9IQdun6-1T5fh4wrh-4I",
+        "img":"https://blob.sololearn.com/avatars/sololearn.png",
 		"name": "JavaScript Specialist Certification",
 		"issuer": "Sololearn",
 		"date": "Jun 2025",
@@ -73,7 +73,7 @@
 	},
     {
 		"id": "sample-certificate-3",
-        "img":"https://media.licdn.com/dms/image/v2/D560BAQE8MivsmbT7Ig/company-logo_100_100/company-logo_100_100/0/1705561459405/hackerrank_logo?e=1788998400&v=beta&t=yaGa-y3JdAau2OjY4VAOMPiDPLNWQZ7fYQmH-Jl9GNc",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
 		"name": "Python Basics",
 		"issuer": "HackerRank",
 		"date": "Nov 2023",

@@ -12,6 +12,16 @@ function App() {
   return (
     <>
       <Navbar/>
+      <div className='japanese-quote'>
+        <span>努</span>
+        <span>力</span>
+        <span>は</span>
+        <span>裏</span>
+        <span>切</span>
+        <span>ら</span>
+        <span>な</span>
+        <span>い</span>
+      </div>
       <div className='main-container'>
         <About/>
         <Experience/>

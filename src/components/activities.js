@@ -23,7 +23,7 @@ function activities(){
 
                 <div className='activity'>
                     <div className='activity-poster'>
-                        <img src='https://media.licdn.com/dms/image/v2/D4D22AQHJ7K0QRsC1AA/feedshare-shrink_800/B4DZhnGuxrGgAo-/0/1754076476527?e=1788998400&v=beta&t=YjrJ1nSZsQ3f3WnugxT4n2imRm_UlnwvPFPcE9JecrI'></img>
+                        <img src='https://ik.imagekit.io/r5iifod66/vit.jpg'></img>
                     </div>
                     <div>
                         <h2>Participated in a group for VIT Inno-Hackathon!</h2>
@@ -37,13 +37,13 @@ function activities(){
                         <p>Presented a full-stack web application for hospitals, doctors, and patients. Also implemented the objectives given as part of the 24-hour Hackathon in the project.</p>
                     </div>
                     <div className='activity-poster'>
-                        <img src='https://media.licdn.com/dms/image/v2/D4D22AQG1YajvtYR2Hg/feedshare-shrink_1280/B4DZWlafVGGcAk-/0/1742236940337?e=1788998400&v=beta&t=_kyinR11_170fcAiriWLw2W2u2cQNPTSeAkrZoBvy4o'></img>
+                        <img src='https://ik.imagekit.io/r5iifod66/pccoe.jpg'></img>
                     </div>
                 </div>
 
                 <div className='activity'>
                     <div className='activity-poster'>
-                        <img src='https://media.licdn.com/dms/image/v2/D4E22AQH8sqjcQY5nvQ/feedshare-shrink_1280/B4EZmzHVY5IkAs-/0/1759646669150?e=1788998400&v=beta&t=8s623wsNnjD0nWf3yY4Cj4ymhjoju51X5QIAv9YTemw'></img>
+                        <img src='https://ik.imagekit.io/r5iifod66/avishkar.jpg'></img>
                     </div>
                     <div>
                         <h2>Presented VIRA Concept and semi-furnished model at Avishkar 2025</h2>

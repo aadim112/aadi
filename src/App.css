@@ -11,8 +11,34 @@
   height: 2px;
   background-color: #e4e4e4; 
 }
+
+.japanese-quote {
+  position: absolute;
+  left: 7%;
+  top: 200px;
+  font-family: "Noto Serif JP";
+  font-size: 22px;
+  font-weight: bold;
+  line-height: 1.8;
+  letter-spacing: 4px;
+  color: #c5050c;
+  text-align: center;
+  writing-mode: vertical-rl;
+}
 @media (max-width: 600px) {
   footer{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+  }
+    .japanese-quote {
+      position: absolute;
+      writing-mode:horizontal-tb;
+      top: 120px;
+      left: 5px;
+  }
+
+  footer {
     display: flex;
     flex-direction: column;
     text-align: center;
