@@ -17,6 +17,15 @@
 		"description": "I learned the fundamentals of AI agents, including how they use LLMs, tools, and reasoning to perform tasks autonomously. I also learned how to build and use agents with Hugging Face’s smolagents framework and understand the Think → Act → Observe workflow.",
 		"link": "https://huggingface.co/Aadim3006"
 	},
+	{
+		"id": "sample-certificate-1",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmNo_iEE_4wGIKd317Sgv3H2_X2hJRcM64ne-_KAY4HfrDreRehQWhqIg&s=10",
+		"name": "AI-Native Vector Databases",
+		"issuer": "LinkedIn",
+		"date": "Sep 2026",
+		"description": "Learned Fundamentals of Weaviate Vector Database. Performed all CRUD operation of Weaviate.",
+		"link": "https://www.linkedin.com/learning/certificates/690737441191b75b2a920355a6f3a9cb28a0da1048e09fce47cc850d49d34d7a?trk=share_certificate"
+	},
     {
 		"id": "sample-certificate-2",
         "img":"https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/3840px-Google_%22G%22_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
